@@ -1,0 +1,7 @@
+{
+  "rules": [
+    "DOMAIN-SUFFIX,csdn.net,Proxy",
+    "DOMAIN,blog.csdn.net,Proxy",
+    "DOMAIN,www.csdn.net,Proxy"
+  ]
+}
